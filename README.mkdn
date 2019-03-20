@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
- <img src="https://github.com/seba3567/descendant/blob/master/images/icon.png" >
+ <img src="https://github.com/seba3567/descendant/blob/master/images/icon2.png" >
 </p>
 
 -----------------------------------------------------------------------------
