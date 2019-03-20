@@ -8,6 +8,7 @@
 -----------------------------------------------------------------------------
 <p align="center">
 # Descendant ROM
+================
 </p>
 
 
@@ -29,7 +30,8 @@ Then to sync up:
 
 
 
-## Sync your device repositories
+Sync your device repositories:
+=============================
 
 We've stored them for you [here](https://github.com/descendant-devices), if your device isn't listed, check the paragraph "Contributing".
 
@@ -37,7 +39,8 @@ We've stored them for you [here](https://github.com/descendant-devices), if your
 Start the build:
 ===============
 
-```. build/envsetup.sh
+```
+. build/envsetup.sh
 lunch descendant_codename-buildtype
 mka bacon
 ```
