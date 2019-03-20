@@ -11,18 +11,18 @@
 </p>
 
 
-[**Dependencies**](https://github.com/seba3567/descendant/blob/master/Dependencies)
+[**Dependencies necessary for compile **](https://github.com/seba3567/descendant/blob/master/Dependencies)
 
 
-Init our repo:+-
+Init our repo:
 =============
 To start your own descendance, begin with:
 
 ```repo init -u https://github.com/DescendantDeviceSpecific/manifest.git -b TwoDotOne_ds```
 
 
-Then to sync up:-
-================
+Then to sync up:
+===============
 
 ```repo sync --force-sync --no-clone-bundle --no-tags -j$(nproc --all)```
 
@@ -34,15 +34,15 @@ Then to sync up:-
 We've stored them for you [here](https://github.com/descendant-devices), if your device isn't listed, check the paragraph "Contributing".
 
 
-Start the build:-
-=================
+Start the build:
+===============
 
 ```. build/envsetup.sh
 lunch descendant_codename-buildtype
 mka bacon
 ```
 
-Contributing:-
+Contributing:
 ============
 We do appreciate contributions to our source.
 
